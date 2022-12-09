@@ -2,10 +2,11 @@
 #include <stdlib.h>
 
 /**
- * main - return alphabets both lower and upper cases
+ * main - returns alphabets both e and q
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char ch = 'a';
