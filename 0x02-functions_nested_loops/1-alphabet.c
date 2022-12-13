@@ -18,4 +18,5 @@ void print alphabet(void)
 	}
 
 	_putchar('\n');
+
 }
